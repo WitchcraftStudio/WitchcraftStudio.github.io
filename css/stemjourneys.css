@@ -1,0 +1,16 @@
+#index-top-image, #store-top-image, #about-top-image {
+    background-image: url(resources/logo-stemjourneys-org-REGISTERED-2048x235.png);
+    background-size: contain;
+}
+
+#index-top-image {
+    height: 110px;
+}
+
+#store-top-image {
+    height: 60px;
+}
+
+#about-top-image {
+    height: 60px;
+}
