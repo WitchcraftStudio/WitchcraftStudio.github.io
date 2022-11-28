@@ -6,7 +6,7 @@
   <link href="https://witchcraft.studio/atom.xml" rel="self"/>
   
   <link href="https://witchcraft.studio/"/>
-  <updated>2022-11-26T22:07:16.036Z</updated>
+  <updated>2022-11-28T04:20:37.992Z</updated>
   <id>https://witchcraft.studio/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Brand new post</title>
+    <link href="https://witchcraft.studio/2022/11/28/Brand-new-post/"/>
+    <id>https://witchcraft.studio/2022/11/28/Brand-new-post/</id>
+    <published>2022-11-28T04:18:48.000Z</published>
+    <updated>2022-11-28T04:20:37.992Z</updated>
+    
+    <content type="html"><![CDATA[<p>Does <strong>markdown</strong> <em>suck?</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Does &lt;strong&gt;markdown&lt;/strong&gt; &lt;em&gt;suck?&lt;/em&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
